@@ -296,6 +296,9 @@ margin-top: 290.5px;
   white-space: normal;
 }
 .Best_word_gray:hover{
+  margin-left: -1.5px;
+  margin-top: -1.5px;
+  font-size: 28px;
   color: black;
 }
 #line_body2 {
